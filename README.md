@@ -10,7 +10,7 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
 
 Behold, the arsenal of my wizardry:
 
-- **Arcane Incantations**: Python, JavaScript, C++
+- **Arcane Incantations**: Python, JavaScript, C++ , c<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
 - **Sorcerous Scrolls**: HTML, CSS, Bootstrap
 - **Mystic Algorithms**: Over a thousand quests completed, including legendary LeetCode challenges
 - **Enchanted Frameworks**: Django, MEAN stack (currently mastering)
