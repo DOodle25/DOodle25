@@ -58,8 +58,6 @@ My quest is one of innovation and creation, where the melding of technology and 
 <br>
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doodle25&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="doodle25">
-</div>
-<div>
     <img src="https://github-profile-trophy.vercel.app/?username=doodle25&title=Commits,Stars,PullRequest" alt="doodle25">
 </div>
 <br>
