@@ -10,7 +10,7 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
 
 Behold, the arsenal of my wizardry:
 
-- <div height="10">Arcane Incantations: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="10" height="10"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></div>
+- <div>Arcane Incantations:</div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
 - **Sorcerous Scrolls**: HTML, CSS, Bootstrap
 - **Mystic Algorithms**: Over a thousand quests completed, including legendary LeetCode challenges
 - **Enchanted Frameworks**: Django, MEAN stack (currently mastering)
