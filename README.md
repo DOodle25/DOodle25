@@ -16,7 +16,7 @@ Behold, the arsenal of my wizardry:
 - **Enchanted Frameworks**: Django, MEAN stack (currently mastering)
 - **Potions of Data Alchemy**: Python libraries like NumPy, Pandas, and scikit-learn
 - **Glyphs of Design**: Blender, GIMP, Figma
-- **Artifacts of Version Control**: Git, GitHub, VS Code
+- **Artifacts of Version Control**: Git, GitHub, VS Code, CoPilot
 - **Relics of the Ancients**: MS Word, MS PowerPoint, and other arcane tools
 
 ## ⚔️ Quests and Pursuits
