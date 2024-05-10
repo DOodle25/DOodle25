@@ -66,4 +66,4 @@ My quest is one of innovation and creation, where the melding of technology and 
 Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [Github](https://github.com/DOodle25) and [Leetcode](https://leetcode.com/DIPEN125/), or send word via electronic raven to [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/).
 
 Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=DOodle25&color=green)
