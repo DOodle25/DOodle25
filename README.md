@@ -1,4 +1,4 @@
-<div style-"background-color="black"># 🐉Welcome to the Realm of Dipen Patel, Master of the Codecraft!🚀 #
+# 🐉Welcome to the Realm of Dipen Patel, Master of the Codecraft!🚀 #
 
 ## 🏰 Citadel of the Digital Mage
 
@@ -68,4 +68,3 @@ Are you prepared to embark on epic quests, engage in arcane debates, or simply s
 Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
 <br>
 ![](https://komarev.com/ghpvc/?username=DOodle25&color=green) 
-</div>
