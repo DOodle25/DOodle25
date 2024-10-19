@@ -1,5 +1,3 @@
-
-<br>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=doodle25&amp;show_icons=true&amp;locale=en" alt="doodle25">
 </div>
