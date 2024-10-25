@@ -29,14 +29,28 @@ My quest is one of innovation and creation, where the melding of technology and 
 ## 💼 Projects and Showcases
 
 - ### **Portfolio Website**<br>
-  My online portfolio where you can explore my works, skills, and achievements. [**View Live Site**](#) | [**Project Video**](#)
+  My online portfolio where you can explore my works, skills, and achievements. [**View Live Site**](https://portfolio-mdgq.onrender.com/) 
+
+
+
+https://github.com/user-attachments/assets/abc3e7e6-afa4-4c7d-b5ba-1c6a12f69d86
+
 
 - ### **District Integrated Dashboard**<br>
   A comprehensive dashboard featuring data integration across districts for streamlined insights and decision-making.<br>
-  [**View Live Site**](#) | [**Project Video**](#)
+  [**View Live Site**](https://didfrontend.onrender.com/) | 
+
+
+https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
+
+
 
 - ### **syncUP**<br>
-  An interactive, collaborative platform designed to optimize teamwork. [**View Live Site**](#) | [**Project Video**](#)
+  An interactive, collaborative platform designed to optimize teamwork.
+
+
+https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
+
 
 - ### **Code-Canvas** (In Progress)<br>
   A dynamic, code-driven creative platform that combines live coding, collaboration, and design.
