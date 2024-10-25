@@ -84,4 +84,5 @@ Are you prepared to embark on epic quests, engage in arcane debates, or simply s
 Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=DOodle25&color=green)
+![](https://komarev.com/ghpvc/?username=DOodle25&color=green) 
+
