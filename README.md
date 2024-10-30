@@ -40,6 +40,9 @@ https://github.com/user-attachments/assets/abc3e7e6-afa4-4c7d-b5ba-1c6a12f69d86
   A comprehensive dashboard featuring data integration across districts for streamlined insights and decision-making.<br>
   [**View Live Site**](https://didfrontend.onrender.com/) | 
 
+### **Azure Links**
+- **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)
+- **Frontend**: [Dashboard Frontend](https://ambitious-bush-0645df200.5.azurestaticapps.net/)
 
 https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
