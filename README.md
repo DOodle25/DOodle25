@@ -10,15 +10,46 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
 
 Behold, the arsenal of my wizardry:
 
-- **Arcane Incantations**:<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30">
-- **Sorcerous Scrolls**:<br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
-- **Mystic Algorithms**:<br> Over a thousand quests completed, including legendary <a href="https://leetcode.com/DIPEN125/"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipen125" height="20" width="30"></a> challenges
-- **Enchanted Frameworks**:<br> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30">, MEAN stack (currently mastering)
-- **Potions of Data Alchemy**:<br> Python libraries like NumPy, <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"> , <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"> , <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30">
-- **Glyphs of Design**:<br> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30">, GIMP, Figma
-- **Artifacts of Version Control**:<br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">Hub, VS Code, CoPilot
-- **Relict Storages**:<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30">
-- **Relics of the Ancients**:<br> MS Word, MS PowerPoint, and other arcane tools
+- **Arcane Incantations**:<br>
+  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="python" width="30" height="30"> 
+  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="javascript" width="30" height="30"> 
+  <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="cplusplus" width="30" height="30"> 
+  <img src="https://img.icons8.com/ios/50/000000/c-programming.png" alt="c" width="30" height="30">
+  
+- **Sorcerous Scrolls**:<br> 
+  <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="html5" width="40" height="40"> 
+  <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="css3" width="40" height="40"> 
+  <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" alt="bootstrap" width="40" height="40">
+
+- **Mystic Algorithms**:<br> 
+  Over a thousand quests completed, including legendary <a href="https://leetcode.com/DIPEN125/"> 
+    <img align="center" src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="dipen125" height="20" width="30">
+  </a> challenges
+  
+- **Enchanted Frameworks**:<br> 
+  <img src="https://img.icons8.com/ios/50/000000/django.png" alt="django" width="30" height="30">, 
+  MEAN stack (currently mastering)
+
+- **Potions of Data Alchemy**:<br> 
+  Python libraries like NumPy, 
+  <img src="https://img.icons8.com/ios/50/000000/pandas.png" alt="pandas" width="30" height="30">, 
+  <img src="https://img.icons8.com/ios/50/000000/pytorch.png" alt="pytorch" width="30" height="30">, 
+  <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" alt="tensorflow" width="30" height="30">
+
+- **Glyphs of Design**:<br> 
+  <img src="https://img.icons8.com/ios/50/000000/blender.png" alt="blender" width="30" height="30">, 
+  GIMP, Figma
+
+- **Artifacts of Version Control**:<br> 
+  <img src="https://img.icons8.com/ios/50/000000/git.png" alt="git" width="30" height="30">Hub, VS Code, CoPilot
+
+- **Relict Storages**:<br> 
+  <img src="https://img.icons8.com/ios/50/000000/mysql.png" alt="mysql" width="30" height="30">, 
+  <img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="mongodb" width="30" height="30">
+
+- **Relics of the Ancients**:<br> 
+  MS Word, MS PowerPoint, and other arcane tools
+
 
 ## ⚔️ Quests and Pursuits
 
