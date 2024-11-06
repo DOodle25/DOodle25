@@ -14,7 +14,7 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
   <p align="">
     <strong>🔮 Programming Languages:</strong><br>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 300px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>&nbsp;
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
