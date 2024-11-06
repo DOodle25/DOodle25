@@ -90,7 +90,6 @@ Venture forth into my repository chambers, where tales of valor and triumph awai
 <br>
 <div style="display:flex;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doodle25&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="doodle25">
-    <img src="https://github-profile-trophy.vercel.app/?username=doodle25&title=Commits,Stars,PullRequest" alt="doodle25">
 </div>
 <br>
 
