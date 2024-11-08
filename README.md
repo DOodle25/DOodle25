@@ -143,6 +143,22 @@ Venture forth into my repository chambers, where tales of valor and triumph awai
     <img src="https://github-profile-trophy.vercel.app/?username=doodle25&title=Commits,Stars,PullRequest" alt="doodle25">
 </div>
 <br>
+
+
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DOodle25&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DOodle25&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=DOodle25&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25&theme=radical">
+
+</div>
+<br>
+
 ## 🔗 Join My Fellowship!
 
 Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [Github](https://github.com/DOodle25) and [Leetcode](https://leetcode.com/DIPEN125/), or send word via electronic raven to [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/).
