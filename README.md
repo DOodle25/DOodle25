@@ -130,19 +130,39 @@ Venture forth into my repository chambers, where tales of valor and triumph awai
 - **Projects of Legend**: Explore the artifacts of my creation, from web citadels to algorithmic conquests.
 
 <br>
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=doodle25&amp;show_icons=true&amp;locale=en" alt="doodle25">
-</div>
 <br>
-<div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doodle25&amp;" alt="doodle25">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- GitHub Stats Card -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=doodle25&show_icons=true&locale=en" alt="doodle25" style="width: 45%; min-width: 300px; max-width: 500px;" />
+
+    <!-- GitHub Streak Stats -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doodle25" alt="doodle25" style="width: 45%; min-width: 300px; max-width: 500px;" />
 </div>
+
 <br>
-<div style="display:flex;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doodle25&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="doodle25">
-    <img src="https://github-profile-trophy.vercel.app/?username=doodle25&title=Commits,Stars,PullRequest" alt="doodle25">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- Top Languages -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doodle25&show_icons=true&locale=en&layout=compact" alt="doodle25" style="width: 45%; min-width: 300px; max-width: 500px;" />
+
+    <!-- GitHub Trophies -->
+    <img src="https://github-profile-trophy.vercel.app/?username=doodle25&title=Commits,Stars,PullRequest" alt="doodle25" style="width: 45%; min-width: 300px; max-width: 500px;" />
 </div>
+
 <br>
+
+## 🔗 Join My Fellowship!
+
+Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [GitHub](https://github.com/DOodle25) and [Leetcode](https://leetcode.com/DIPEN125/), or send word via electronic raven to [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/).
+
+Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
+
+<br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 
