@@ -1,3 +1,6 @@
+
+![Screenshot 2024-11-08 174030](https://github.com/user-attachments/assets/01145df6-de3a-4f85-8b69-b8dc393d18b9)
+
 # 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀 #
 
 ## 🏰 Citadel of the Digital Mage
