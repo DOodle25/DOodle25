@@ -7,12 +7,7 @@ Hail and well met, fellow travelers! I am Dipen Patel, a wanderer of the digital
 As a denizen of the land of India, my journey is one of perpetual discovery, where every line of code is a step closer to unlocking the secrets of the digital cosmos.
 ## 🧙‍♂️ Wizardry and Sorcery ✨
 
-### 🧙‍♂️ Behold, the arsenal of my wizardry:
-
 <div align="">
-  <h3 align="">⚡ The Magic Spells in My Grimoire:</h3>
-  <p align="">
-    <strong>🔮 Programming Languages:</strong><br>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>&nbsp;
     </a>
@@ -28,10 +23,6 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
-
-  <p align="">
-    <strong>⚔️ Web Development:</strong><br>
     <a href="https://www.reactjs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
@@ -44,10 +35,6 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
-
-  <p align="">
-    <strong>🛡️ Backend Frameworks:</strong><br>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
@@ -57,30 +44,18 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
-
-  <p align="">
-    <strong>💾 Databases:</strong><br>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
-
-  <p align="">
-    <strong>📡 Version Control & Collaboration:</strong><br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
     <a href="https://www.figmacom" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
-
-  <p align="">
-    <strong>☁️ Cloud & DevOps:</strong><br>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
@@ -90,7 +65,6 @@ As a denizen of the land of India, my journey is one of perpetual discovery, whe
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" style="margin-right: 30px; margin: 10px; padding: 5px; border: 2px solid #b6b6b6; border-radius: 8px;"/>
     </a>
-  </p>
 </div>
 
 
