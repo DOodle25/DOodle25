@@ -166,9 +166,8 @@ Together, let us carve our names into the annals of history! 🌌
 <br>
 
 ![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=social)
-![DOodle25's repos](https://img.shields.io/github/followers/DOodle25?label=Repos&style=social)
+![DOodle25's repos](https://img.shields.io/github/Repos/DOodle25?label=Repos&style=social)
 ![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=social)
-![DOodle25's forks](https://img.shields.io/github/forks/DOodle25?label=Forks&style=social)
 
 <br>
 <br>
