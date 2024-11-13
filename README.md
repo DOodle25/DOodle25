@@ -3,6 +3,8 @@
 
 ---
 
+![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=plastic)
+![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=plastic)
 ### 🏰 **Citadel of the Digital Mage**
 Hail and well met, fellow travelers! I am **Dipen Patel**, a wanderer of the digital realms, a seeker of arcane knowledge, and a master of the codecraft. Within the vast expanse of the digital kingdom, I tread the path of the code mage, weaving **spells of logic** and **enchantments of design**.
 
@@ -163,17 +165,4 @@ Together, let us carve our names into the annals of history! 🌌
     <img height="169em" src="https://github-readme-stats.vercel.app/api?username=DOodle25&hide_border=false&include_all_commits=false&count_private=false">
     <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25">
 </div>
-<br>
-
-![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=social)
-![DOodle25's repos](https://img.shields.io/github/Repos/DOodle25?label=Repos&style=social)
-![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=social)
-# DOodle25's GitHub Profile
-
-![DOodle25's repositories](https://img.shields.io/github/count/DOodle25?label=Repos&style=plastic)
-![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=plastic)
-![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=plastic)
-![DOodle25's commits](https://img.shields.io/github/commits-since/DOodle25/your-repo-name/last?label=Commits&style=plastic)
-
-<br>
 <br>
