@@ -295,7 +295,7 @@ Let’s collaborate and create magic! Feel free to reach out to me at: dipen.cse
 <div align="center">
     <!-- Profile Links -->
     <a href="https://github.com/dipen">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+<a href="https://github.com/dipen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="dipen" height="30" width="40" /></a>
     </a>
     <a href="https://www.linkedin.com/in/dipen-patel-4654771b9/">
 <a href="https://github.com/dipen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="dipen" height="30" width="40" /></a>
