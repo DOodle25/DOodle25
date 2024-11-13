@@ -164,6 +164,17 @@ Together, let us carve our names into the annals of history! 🌌
     <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25">
 </div>
 <br>
+![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=social)
+![DOodle25's repos](https://img.shields.io/github/followers/DOodle25?label=Repos&style=social)
+![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=social)
+![DOodle25's forks](https://img.shields.io/github/forks/DOodle25?label=Forks&style=social)
+
+![DOodle25's build status](https://img.shields.io/github/workflow/status/DOodle25/your-repo-name/build)
+![DOodle25's code coverage](https://img.shields.io/codecov/c/github/DOodle25/your-repo-name)
+![DOodle25's issues](https://img.shields.io/github/issues/DOodle25/your-repo-name)
+![DOodle25's pull requests](https://img.shields.io/github/issues-pr/DOodle25/your-repo-name)
+![DOodle25's license](https://img.shields.io/github/license/DOodle25/your-repo-name)
+![DOodle25's last commit](https://img.shields.io/github/last-commit/DOodle25/your-repo-name)
 <br>
 <br>
 <br>
