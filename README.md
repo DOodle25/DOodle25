@@ -130,7 +130,6 @@ Venture forth into my repository chambers, where tales of valor and triumph awai
 - **Projects of Legend**: Explore the artifacts of my creation, from web citadels to algorithmic conquests.
 
 <br>
-<br>
 
 ## 🔗 Join My Fellowship!
 
@@ -157,16 +156,3 @@ Together, let us forge a path through the digital wilderness and carve our names
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25&theme=radical">
 
 </div>
-<br>
-
-## 🔗 Join My Fellowship!
-
-Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [Github](https://github.com/DOodle25) and [Leetcode](https://leetcode.com/DIPEN125/), or send word via electronic raven to [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/).
-
-Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
-
-<br>
-<!-- ![](https://komarev.com/ghpvc/?username=DOodle25&color=green) -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
