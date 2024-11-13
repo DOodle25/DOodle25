@@ -1,15 +1,15 @@
-### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 
+### 🛠️ ** Welcome to the Codebase of Dipen Patel, Engineer of Innovation ** 🚀 
 
 ---
 
-### 🏰 **Citadel of the Digital Mage**
+### 🏛️ **Forge of the Code Artisan**
 
 Hail and well met, fellow travelers! I am **Dipen Patel**, a wanderer of the digital realms, a seeker of arcane knowledge, and a master of the codecraft. Within the vast expanse of the digital kingdom, I tread the path of the code mage, weaving **spells of logic** and **enchantments of design**.
 
 As a denizen of **India**, my journey is one of perpetual discovery, where every line of code is a step closer to unlocking the secrets of the digital cosmos.
 
 ---
-### 🧙‍♂️ **Wizardry and Sorcery**✨
+### 🧙‍♂️ **Skills and Specializations** 🔧
 
 <div align="">
     <!-- Tech Stack Icons -->
