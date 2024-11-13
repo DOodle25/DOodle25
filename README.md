@@ -84,7 +84,7 @@ My quest is one of **innovation** and **creation**, where the melding of **techn
 ### 💼 **Projects and Showcases**
 
 - ### **Portfolio Website**
-Azure link : [**View Live Site**](https://azure-portfolio.alynor.wiki/)
+**Azure link** : [**View Live Site**](https://azure-portfolio.alynor.wiki/) <br>
 My online portfolio where you can explore my works, skills, and achievements. [**View Live Site**](https://dipen.alynor.wiki/)
 
 
