@@ -142,8 +142,8 @@ Venture forth into my **repository chambers**, where tales of valor and triumph 
 
 Are you prepared to embark on **epic quests**, engage in **arcane debates**, or share tales of your own adventures? Join me on:
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="dipen" height="30" width="40" /> [GitHub](https://github.com/DOodle25)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipen125" height="30" width="40" /> [Leetcode](https://leetcode.com/DIPEN125/)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipen-patel-792296260asdf" height="30" width="40" /> [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipen125" height="30" width="40" /> [Leetcode](https://leetcode.com/DIPEN125/)
 
 Together, let us carve our names into the annals of history! 🌌
 
