@@ -1,4 +1,5 @@
-### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 
+### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=12WaRrovfc6hM7mHm9czGxNq3zKBg8Xjg)
+
 
 ---
 
