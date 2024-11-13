@@ -1,5 +1,9 @@
-### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=12WaRrovfc6hM7mHm9czGxNq3zKBg8Xjg)
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3>🐉 <strong>Welcome to the Realm of Dipen Patel, Master of the Codecraft!</strong> 🚀</h3>
+  <a href="https://drive.google.com/uc?export=download&id=12WaRrovfc6hM7mHm9czGxNq3zKBg8Xjg" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=google-drive" alt="Download Resume">
+  </a>
+</div>
 
 ---
 
