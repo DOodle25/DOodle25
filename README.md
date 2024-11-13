@@ -1,9 +1,10 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3>🐉 <strong>Welcome to the Realm of Dipen Patel, Master of the Codecraft!</strong> 🚀</h3>
+<p style="display: flex; justify-content: space-between; align-items: center; margin: 0;">
+  <span>🐉 <strong>Welcome to the Realm of Dipen Patel, Master of the Codecraft!</strong> 🚀</span>
   <a href="https://drive.google.com/uc?export=download&id=12WaRrovfc6hM7mHm9czGxNq3zKBg8Xjg" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=google-drive" alt="Download Resume">
+    <img src="https://img.shields.io/badge/Resume-Download-lightorange?style=for-the-badge&logo=google-drive" alt="Download Resume">
   </a>
-</div>
+</p>
+
 
 ---
 
