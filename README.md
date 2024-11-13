@@ -1,15 +1,15 @@
-# 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀 
+### 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀 
 
 ---
 
-## 🏰 Citadel of the Digital Mage
+### 🏰 Citadel of the Digital Mage
 
 Hail and well met, fellow travelers! I am **Dipen Patel**, a wanderer of the digital realms, a seeker of arcane knowledge, and a master of the codecraft. Within the vast expanse of the digital kingdom, I tread the path of the code mage, weaving **spells of logic** and **enchantments of design**.
 
 As a denizen of **India**, my journey is one of perpetual discovery, where every line of code is a step closer to unlocking the secrets of the digital cosmos.
 
 ---
-## 🧙‍♂️ Wizardry and Sorcery ✨
+### 🧙‍♂️ Wizardry and Sorcery ✨
 
 <div align="">
     <!-- Tech Stack Icons -->
@@ -75,13 +75,13 @@ As a denizen of **India**, my journey is one of perpetual discovery, where every
 ---
 
 
-## ⚔️ Quests and Pursuits
+### ⚔️ Quests and Pursuits
 
 My quest is one of **innovation** and **creation**, where the melding of **technology** and **design** shapes the destiny of the digital realm. My sights are set on the distant horizons of **Development** and **AI/ML**, where the arcane mysteries of data await to be unraveled.
 
 ---
 
-## 💼 Projects and Showcases
+### 💼 Projects and Showcases
 
 - ### **Portfolio Website**
 Azure link : [**View Live Site**](https://azure-portfolio.alynor.wiki/)
@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
 
 ---
 
-## 📜 Past Wizard Academies
+### 📜 Past Wizard Academies
 
 In the annals of time, my journey began in the hallowed halls of **MS University Baroda** (2020-2021), where I honed my skills amidst the **incantations of design** and **sorcery of art**.
 
@@ -128,7 +128,7 @@ With a heart afire with curiosity, I embarked on a new quest at **Parul Universi
 
 ---
 
-## 🏆 Quests and Triumphs
+### 🏆 Quests and Triumphs
 
 Venture forth into my **repository chambers**, where tales of valor and triumph await:
 
@@ -138,7 +138,7 @@ Venture forth into my **repository chambers**, where tales of valor and triumph 
 
 ---
 
-## 🔗 Join My Fellowship!
+### 🔗 Join My Fellowship!
 
 Are you prepared to embark on **epic quests**, engage in **arcane debates**, or share tales of your own adventures? Join me on:
 - [GitHub](https://github.com/DOodle25)
