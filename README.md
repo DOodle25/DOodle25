@@ -168,6 +168,12 @@ Together, let us carve our names into the annals of history! 🌌
 ![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=social)
 ![DOodle25's repos](https://img.shields.io/github/Repos/DOodle25?label=Repos&style=social)
 ![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=social)
+# DOodle25's GitHub Profile
+
+![DOodle25's repositories](https://img.shields.io/github/count/DOodle25?label=Repos&style=plastic)
+![DOodle25's followers](https://img.shields.io/github/followers/DOodle25?label=Followers&style=plastic)
+![DOodle25's stars](https://img.shields.io/github/stars/DOodle25?label=Stars&style=plastic)
+![DOodle25's commits](https://img.shields.io/github/commits-since/DOodle25/your-repo-name/last?label=Commits&style=plastic)
 
 <br>
 <br>
