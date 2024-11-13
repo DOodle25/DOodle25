@@ -8,7 +8,7 @@ Hail and well met, fellow travelers! I am **Dipen Patel**, a wanderer of the dig
 As a denizen of **India**, my journey is one of perpetual discovery, where every line of code is a step closer to unlocking the secrets of the digital cosmos.
 
 ---
-### 🧙‍♂️ **Skills and Specializations**### ✨
+### 🧙‍♂️ **Skills and Specializations** ✨
 
 <div align="">
     <!-- Tech Stack Icons -->
