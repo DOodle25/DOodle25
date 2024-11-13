@@ -298,10 +298,10 @@ Let’s collaborate and create magic! Feel free to reach out to me at: dipen.cse
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://www.linkedin.com/in/dipen-patel-4654771b9/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+<a href="https://github.com/dipen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="dipen" height="30" width="40" /></a>
     </a>
     <a href="https://leetcode.com/dipenpatel/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/LeetCode_Logo.png" alt="Leetcode" width="40" height="40" style="margin-right: 10px;"/>
+<a href="https://www.leetcode.com/dipen125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipen125" height="30" width="40" /></a>
     </a>
 </div>
 
