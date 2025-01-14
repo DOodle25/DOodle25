@@ -1,9 +1,10 @@
 ### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 
 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dipen-patel-792296260" target="_blank" style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; text-decoration: none; color: #ffffff; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text', Helvetica, sans-serif;">
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dipen-patel-792296260" target="_blank" style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; text-decoration: none; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text', Helvetica, sans-serif;">
   Follow on LinkedIn
 </a>
+
 
 ---
 
