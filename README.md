@@ -89,15 +89,22 @@ My online portfolio where you can explore my works, skills, and achievements. [*
 
 
 https://github.com/user-attachments/assets/abc3e7e6-afa4-4c7d-b5ba-1c6a12f69d86
+- ### StarOneCRM
+StarOneCRM is a comprehensive Customer Relationship Management (CRM) system built using the MERN stack (MongoDB, Express.js, React, Node.js). This project was developed as part of my internship, and it includes a wide range of features designed to streamline user management, task assignment, payment processing, and communication.
+### **Azure Links**
+- **Frontend**: [Frontend](https://polite-field-09918cc00.4.azurestaticapps.net)
+- **Backend/Admin**: [Backend](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)
 
+https://github.com/user-attachments/assets/66975bbb-fefc-44d0-b6b7-abdacad60603
+
+https://github.com/user-attachments/assets/2e76e1b5-e38c-40c1-a708-0db12c07f23a
 
 - ### **District Integrated Dashboard**<br>
   A comprehensive dashboard featuring **data integration across districts** for streamlined insights and decision-making.  
-  [**View Live Site**](https://didfrontend.onrender.com/)
-
   ### **Azure Links**
-  - **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)
   - **Frontend**: [Dashboard Frontend](https://ambitious-bush-0645df200.5.azurestaticapps.net/)
+  - **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)
+
 
 https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
