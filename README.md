@@ -1,153 +1,173 @@
-```markdown
-# 🐉 Dipen Patel - The Code Wizard 🧙‍♂️✨
+### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=7A3FF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Realm!;Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+---
+
+### 🏰 **Citadel of the Digital Mage**
+Hail and well met, fellow travelers! I am **Dipen Patel**, a wanderer of the digital realms, a seeker of arcane knowledge, and a master of the codecraft. Within the vast expanse of the digital kingdom, I tread the path of the code mage, weaving **spells of logic** and **enchantments of design**.
+
+As a denizen of **India**, my journey is one of perpetual discovery, where every line of code is a step closer to unlocking the secrets of the digital cosmos.
+
+---
+### 🧙‍♂️ **Skills and Specializations** ✨
+
+<div align="">
+    <!-- Tech Stack Icons -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.reactjs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60" style="padding: 5px;"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60" style="padding: 5px;"/>
+    </a>
 </div>
 
 ---
 
-## � About Me
 
-```diff
-+ 💻 Full-Stack Developer | AI/ML Explorer | Open-Source Contributor
-+ 🎓 Computer Science Student at Parul University
-+ 🔭 Currently working on Code-Canvas (Interactive Coding Platform)
-+ 🌱 Learning Advanced Machine Learning Concepts
-+ ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
-```
+### ⚔️ **Quests and Pursuits**
+
+My quest is one of **innovation** and **creation**, where the melding of **technology** and **design** shapes the destiny of the digital realm. My sights are set on the distant horizons of **Development** and **AI/ML**, where the arcane mysteries of data await to be unraveled.
+
+---
+
+### 💼 **Projects and Showcases**
+
+- ### **Portfolio Website**
+**Azure link** : [**View Live Site**](https://azure-portfolio.alynor.wiki/) <br>
+My online portfolio where you can explore my works, skills, and achievements. [**View Live Site**](https://dipen.alynor.wiki/)
+
+
+https://github.com/user-attachments/assets/abc3e7e6-afa4-4c7d-b5ba-1c6a12f69d86
+- ### StarOneCRM
+StarOneCRM is a comprehensive Customer Relationship Management (CRM) system built using the MERN stack (MongoDB, Express.js, React, Node.js). This project was developed as part of my internship, and it includes a wide range of features designed to streamline user management, task assignment, payment processing, and communication.
+### **Azure Links**
+- **Frontend**: [Frontend](https://polite-field-09918cc00.4.azurestaticapps.net)
+- **Backend/Admin**: [Backend](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)
+
+https://github.com/user-attachments/assets/66975bbb-fefc-44d0-b6b7-abdacad60603
+
+https://github.com/user-attachments/assets/2e76e1b5-e38c-40c1-a708-0db12c07f23a
+
+- ### **District Integrated Dashboard**<br>
+  A comprehensive dashboard featuring **data integration across districts** for streamlined insights and decision-making.  
+  ### **Azure Links**
+  - **Frontend**: [Dashboard Frontend](https://ambitious-bush-0645df200.5.azurestaticapps.net/)
+  - **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)
+
+
+https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
+
+
+
+- ### **syncUP**
+  An interactive, **collaborative platform** designed to optimize teamwork.
+
+
+https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
+
+
+- ### **Code-Canvas** *(In Progress)*
+  A dynamic, code-driven creative platform that combines **live coding**, **collaboration**, and **design**.
+
+---
+
+### 📜 **Past Wizard Academies**
+
+In the annals of time, my journey began in the hallowed halls of **MS University Baroda** (2020-2021), where I honed my skills amidst the **incantations of design** and **sorcery of art**.
+
+With a heart afire with curiosity, I embarked on a new quest at **Parul University Baroda** (2021-Present) to delve deeper into **algorithmic wizardry**.
+
+- **Legendary Quests Completed**: 
+    - **CS50** and **CS50 Web** (2022-2023)
+    - **Cisco courses** on **C++** and **cybersecurity**
+    - **NPTEL software engineering saga**
+
+---
+
+### 🏆 **Quests and Triumphs**
+
+Venture forth into my **repository chambers**, where tales of valor and triumph await:
+
+- **Epic Hackathons**: Claimed rare treasures, including a **domain name** and the **GitHub Pro subscription**.
+- **Academic Chronicles**: Completed **CS50**, **CS50 Web**, and **Cisco courses**, alongside **NPTEL software engineering**.
+- **Projects of Legend**: Explore artifacts from **web citadels** to **algorithmic conquests**.
+
+---
+
+### 📧 **Summon the Mage**
+
+Are you prepared to embark on **epic quests**, engage in **arcane debates**, or share tales of your own adventures? Join me on:
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="dipen" height="30" width="40" /> [GitHub](https://github.com/DOodle25)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipen-patel-792296260asdf" height="30" width="40" /> [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipen125" height="30" width="40" /> [Leetcode](https://leetcode.com/DIPEN125/)
+
+Together, let us carve our names into the annals of history! 🌌
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft">
-    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://dipen.alynor.wiki/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+    <!-- GitHub Profile Stats -->
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25">
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DOodle25">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DOodle25&utcOffset=8">
+    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=DOodle25&hide_border=false&include_all_commits=false&count_private=false">
+    <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25">
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### 📚 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. StarOneCRM - Complete CRM Solution
-![MERN](https://img.shields.io/badge/MERN-Full_Stack-9cf?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-Deployed-0089D6?style=flat-square)
-
-A comprehensive Customer Relationship Management system with user management, task assignment, and payment processing.
-
-🔗 **Live Demo:**  
-[Frontend](https://polite-field-09918cc00.4.azurestaticapps.net) | 
-[Backend](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)
-
-![StarOneCRM Demo](https://github.com/user-attachments/assets/66975bbb-fefc-44d0-b6b7-abdacad60603)
-
----
-
-### 2. District Integrated Dashboard
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=flat-square)
-
-Data visualization platform for district-level insights and decision making.
-
-🔗 **Live Demo:**  
-[Frontend](https://ambitious-bush-0645df200.5.azurestaticapps.net/) | 
-[Admin](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)
-
-![Dashboard Demo](https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321)
-
----
-
-### 3. syncUP - Collaborative Platform
-![Real-time](https://img.shields.io/badge/Real_time-Collaboration-blueviolet?style=flat-square)
-
-Interactive platform for team collaboration with live updates.
-
-![syncUP Demo](https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1)
-
----
-
-## 📚 Education & Certifications
-
-| Institution | Program | Duration |
-|------------|---------|----------|
-| Parul University | B.Tech Computer Science | 2021-Present |
-| Harvard University (CS50) | Introduction to Computer Science | 2022 |
-| Harvard University (CS50W) | Web Programming with Python/JavaScript | 2023 |
-| Cisco Networking Academy | C++ Programming | 2022 |
-| NPTEL | Software Engineering | 2022 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DOodle25&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25&theme=radical" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dipen-patel-792296260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/DOodle25">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/DIPEN125/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:dipen.patel125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/DOodle25?tab=followers">
-    <img src="https://img.shields.io/github/followers/DOodle25?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</div>
+<br>
