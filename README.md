@@ -87,17 +87,16 @@ My quest is one of **innovation** and **creation**, where the melding of **techn
 **Azure link** : [**View Live Site**](https://azure-portfolio.alynor.wiki/) <br>
 My online portfolio where you can explore my works, skills, and achievements. [**View Live Site**](https://dipen.alynor.wiki/)
 
+https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
 
-https://github.com/user-attachments/assets/abc3e7e6-afa4-4c7d-b5ba-1c6a12f69d86
+
 - ### StarOneCRM
 StarOneCRM is a comprehensive Customer Relationship Management (CRM) system built using the MERN stack (MongoDB, Express.js, React, Node.js). This project was developed as part of my internship, and it includes a wide range of features designed to streamline user management, task assignment, payment processing, and communication.
 ### **Azure Links**
 - **Frontend**: [Frontend](https://polite-field-09918cc00.4.azurestaticapps.net)
 - **Backend/Admin**: [Backend](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)
 
-https://github.com/user-attachments/assets/66975bbb-fefc-44d0-b6b7-abdacad60603
-
-https://github.com/user-attachments/assets/2e76e1b5-e38c-40c1-a708-0db12c07f23a
+https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
 
 - ### **District Integrated Dashboard**<br>
   A comprehensive dashboard featuring **data integration across districts** for streamlined insights and decision-making.  
